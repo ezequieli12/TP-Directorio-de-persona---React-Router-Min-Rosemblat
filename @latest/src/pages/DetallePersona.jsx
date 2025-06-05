@@ -10,7 +10,7 @@ export default function DetallePersona() {
   const mensaje = persona.edad >= 18 ? 'Mayor de edad' : 'Menor de edad'
 
   return (
-    <div>
+    <div className='detallePersonaCaja'>
       <h2>{persona.nombre}</h2>
       <p>Edad: {persona.edad}</p>
       <p>Email: {persona.email}</p>

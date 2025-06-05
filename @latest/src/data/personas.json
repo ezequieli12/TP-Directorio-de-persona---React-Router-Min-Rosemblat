@@ -1,5 +1,4 @@
-[
-  { "id": 1, "nombre": "Ana", "apellido": "García", "edad": 22, "email": "ana1@gmail.com" },
+[ { "id": 1, "nombre": "Ana", "apellido": "García", "edad": 22, "email": "ana1@gmail.com" },
   { "id": 2, "nombre": "Luis", "apellido": "Pérez", "edad": 40, "email": "luis2@gmail.com" },
   { "id": 3, "nombre": "Sofía", "apellido": "Martínez", "edad": 17, "email": "sofia3@gmail.com" },
   { "id": 4, "nombre": "Carlos", "apellido": "López", "edad": 55, "email": "carlos4@gmail.com" },
@@ -98,6 +97,4 @@
   { "id": 97, "nombre": "Leticia", "apellido": "Giménez", "edad": 36, "email": "leticia97@gmail.com" },
   { "id": 98, "nombre": "Salvador", "apellido": "Sanz", "edad": 26, "email": "salvador98@gmail.com" },
   { "id": 99, "nombre": "Mireia", "apellido": "Cano", "edad": 32, "email": "mireia99@gmail.com" },
-  { "id": 100, "nombre": "Esteban", "apellido": "Delgado", "edad": 39, "email": "esteban100@gmail.com" }
-]
-
+  { "id": 100, "nombre": "Esteban", "apellido": "Delgado", "edad": 39, "email": "esteban100@gmail.com" } ]
